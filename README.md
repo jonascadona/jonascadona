@@ -28,4 +28,6 @@
 ---
 </div>  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonascadona&show_icons=true&theme=dark)
+<div align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonascadona&show_icons=true&theme=tokyonight)
+</div>
