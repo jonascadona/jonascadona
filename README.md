@@ -16,8 +16,5 @@
 ---
 ## 💡 Ask me about persuasive techniques, content creation, and sales strategies, or about getting started in the world of programming as a beginner.
 
-## 📬 Reach me at 
+## 📬 Reach me at [Linkedin](https://www.linkedin.com/in/jonas-eduardo-59154b339/) 
 
-addyouremail or connect with me on 
-
-LinkedIn/socialprofileofyourchoice.##
