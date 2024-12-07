@@ -1,8 +1,11 @@
-<center><h2>Hello, I'm Jonas Cadoná 👋</h2></center>
+<div align="center">
+  <h2>Hello, I'm Jonas Cadoná 👋</h2>
+</div>
+
 
 ![Gif do Programador](rapidsave.com_12qyupc24fkd1.gif)
 
-- 🔭 I’m currently working on ...
+<h4>- 🔭 I’m currently working on ...</h4>
 
 
 <!--
