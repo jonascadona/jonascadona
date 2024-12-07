@@ -1,4 +1,9 @@
-## Hello, I'm Jonas Cadoná 👋
+<center><h2> Hello, I'm Jonas Cadoná 👋 </h2></center>
+
+![Gif do Programador](rapidsave.com_12qyupc24fkd1.gif)
+
+- 🔭 I’m currently working on ...
+
 
 <!--
 **jonascadona/jonascadona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
