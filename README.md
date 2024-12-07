@@ -29,5 +29,5 @@
 </div>  
 
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonascadona&show_icons=true&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=jonascadona&show_icons=true&theme=tokyonight" alt="Jonas Cadoná's GitHub stats">
 </div>
