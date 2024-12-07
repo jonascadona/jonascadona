@@ -5,7 +5,7 @@
 
 ![Gif do Programador](rapidsave.com_12qyupc24fkd1.gif)
 
-<h4>🔮 I’m currently working as a Copywriter and exploring the world of programming.
+<h2>🔮 I’m currently working as a Copywriter and exploring the world of programming.
 My main focus is on creating creative solutions, both in persuasive writing and in developing digital projects. I’m currently building my first projects from scratch using JavaScript, HTML, and CSS.
 
 🧠 I’m learning JavaScript and Java as a self-taught programmer
@@ -18,7 +18,7 @@ My main focus is on creating creative solutions, both in persuasive writing and 
 
 addyouremail or connect with me on 
 
-LinkedIn/socialprofileofyourchoice.</h4>
+LinkedIn/socialprofileofyourchoice.</h2>
 
 
 <!--
