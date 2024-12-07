@@ -18,3 +18,14 @@
 
 ## 📬 Reach me at [Linkedin](https://www.linkedin.com/in/jonas-eduardo-59154b339/) 
 
+<div align="center">
+  <h1>My Technologies</h1>
+</div>  
+
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="100px" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="100px" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="100px" />
+          
